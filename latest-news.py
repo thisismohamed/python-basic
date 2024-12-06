@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautfulSoup
+from bs4 import BeautifulSoup
 
 url = "https://news.google.com/news/rss"
 
